@@ -1,6 +1,8 @@
 # Subject-Allocation
 This repository contains an implementation of a subject allocation algorithm designed to optimize the allocation of subjects to faculties within educational institutions. The algorithm, based on the Edmonds-Karp method, efficiently assigns subjects to faculties while considering factors such as faculty preferences, expertise, and workload balance.
 
+https://ieeexplore.ieee.org/document/10743466
+
 **Description**<br>
 The Subject Allocation Algorithm is a Python implementation of the Edmonds-Karp algorithm used to efficiently allocate subjects to faculty members within an educational institution. The algorithm optimizes the allocation process by considering faculty preferences, workload balance, and subject expertise.
 
